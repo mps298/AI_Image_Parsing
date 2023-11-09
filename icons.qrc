@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/calculator.png</file>
+        <file>icons/download.png</file>
+        <file>icons/media-stop.png</file>
+        <file>icons/media-stop-outline.png</file>
+        <file>icons/refresh.png</file>
+        <file>icons/th-menu.png</file>
+        <file>icons/th-small-outline.png</file>
+        <file>icons/upload.png</file>
+        <file>icons/waves.png</file>
+        <file>icons/document-add.png</file>
+        <file>icons/document-delete.png</file>
+        <file>icons/image.png</file>
+        <file>icons/location-arrow.png</file>
+    </qresource>
+</RCC>
